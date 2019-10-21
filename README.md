@@ -50,14 +50,20 @@
 
 #### [4.2 开发平台Ubuntu](./课程笔记/4.2开发平台Ubuntu.md)
 
-#### 5. Shell编程篇
+### 5. Shell编程篇
 
 #### [5.1 Shell基础](./shell编程/5.1Shell简介.md)
 
 #### [5.2 Shell变量](./shell编程/5.2Shell变量.md)
 
-#### [5.3 Shell运算符](./shell编程/5.3Shell运算符.md)
+#### [5.3 Shell字符串](./shell编程/5.3Shell字符串.md)
 
-#### [5.4 Shell流程控制](./shell编程/5.4Shell流程控制.md)
+#### [5.4 Shell数组](./shell编程/5.4Shell数组.md)
 
-#### [5.5 Shell数组](./shell编程/5.5Shell数组.md)
+#### [5.5 Shell运算符](./shell编程/5.5Shell运算符.md)
+
+#### [5.6 Shell打印输出指令](./shell编程/5.6Shell打印输出命令.md)
+
+#### [5.7 Shell test命令](./shell编程/5.7Shelltest命令.md)
+
+#### [5.8 Shell流程控制](./shell编程/5.8Shell流程控制.md)
