@@ -67,3 +67,5 @@
 #### [5.7 Shell test命令](./shell编程/5.7Shelltest命令.md)
 
 #### [5.8 Shell流程控制](./shell编程/5.8Shell流程控制.md)
+
+#### [5.9 Shell函数](./shell编程/5.9Shell函数.md)
