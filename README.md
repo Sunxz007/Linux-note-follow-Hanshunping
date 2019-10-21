@@ -59,3 +59,5 @@
 #### [5.3 Shell运算符](./shell编程/5.3Shell运算符.md)
 
 #### [5.4 Shell流程控制](./shell编程/5.4Shell流程控制.md)
+
+#### [5.5 Shell数组](./shell编程/5.5Shell数组.md)
